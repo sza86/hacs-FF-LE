@@ -32,7 +32,7 @@ Integracja niestandardowa (`custom_component`) dla licznika energii **F&F LE-03M
 2. Kliknij `⋯` w prawym górnym rogu → `Dodaj repozytorium niestandardowe`.
 3. Wklej URL tego repozytorium:
    ```
-   https://github.com/sz86/ff_le_03mw
+   https://github.com/sza86/hacs-FF-LE
    ```
 4. Wybierz typ: **Integracja** i zatwierdź.
 5. Po chwili integracja będzie dostępna w zakładce `Integracje` w HACS.
