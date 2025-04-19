@@ -1,0 +1,9 @@
+{
+  "name": "F&F LE-03MW",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "country": "PL",
+  "render_readme": true,
+  "iot_class": "local_polling",
+  "filename": "custom_components/ff_le_03mw/manifest.json"
+}

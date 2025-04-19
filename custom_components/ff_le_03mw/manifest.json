@@ -1,0 +1,10 @@
+{
+  "domain": "ff_le_03mw",
+  "name": "F&F LE-03MW",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://www.fif.com.pl/",
+  "requirements": ["pymodbus>=3.0.0"],
+  "codeowners": ["@yourname"],
+  "iot_class": "local_polling"
+}
